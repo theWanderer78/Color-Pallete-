@@ -1,0 +1,35 @@
+{
+  "name": "color-pallete-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "dom-to-image": "2.6.0",
+    "file-saver": "2.0.5",
+    "html2canvas": "1.0.0-rc.7",
+    "jquery": "3.5.1",
+    "react": "17.0.0",
+    "react-color": "2.19.3",
+    "react-copy-to-clipboard": "5.0.2",
+    "react-dom": "17.0.0",
+    "react-render-as-image": "1.1.1",
+    "react-scripts": "3.4.3",
+    "reactcss": "1.2.3"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
